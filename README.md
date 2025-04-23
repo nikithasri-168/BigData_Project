@@ -55,7 +55,7 @@ In the era of digital communication, social media generates an immense volume of
 
 - Ensured data quality through preprocessing (removing noise, links, punctuation, etc.)
 
-<img src="C:\Users\s567143\Downloads\BigDataOutput.png" width="600">
+<img src="BigData_Project\BigDataOutput.png" width="600">
 
 ## Future Work
 - Deploy on cloud platforms (AWS EMR, EC2).
