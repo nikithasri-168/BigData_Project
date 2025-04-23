@@ -46,11 +46,24 @@ In the era of digital communication, social media generates an immense volume of
 5. **Visualization:**  
    Displays the results via graphs and dashboards in Matplotlib.
 
-## Visuals
+## Results
+- Collected and processed over 200MB of data per run.
 
-- Top 10 Trending Words  
-- Word Cloud of Popular Terms  
-- Keyword Co-occurrence Graphs
+- Extracted and cleaned 10,000+ word pairs.
 
+- Visualized the top 30 trending pairs, with examples like ['forbes', 'ai'] and ['quantum', 'computing'].
+
+- Ensured data quality through preprocessing (removing noise, links, punctuation, etc.)
+
+<img src="C:\Users\s567143\Downloads\BigDataOutput.png" width="600">
+
+## Future Work
+- Deploy on cloud platforms (AWS EMR, EC2).
+
+- Add real-time dashboards using Streamlit or Tableau Public.
+
+- Optimize for edge computing for faster insights.
+
+- Integrate advanced NLP models for sentiment detection.
 
 
