@@ -25,7 +25,7 @@ In the era of digital communication, social media generates an immense volume of
 - Preprocessing and cleaning of unstructured text data  
 - Word count and word co-occurrence analysis  
 - Identification of top keywords and trending topics  
-- Data visualization using Tableau and Matplotlib  
+- Data visualization using Matplotlib  
 - Scalable processing with Hadoop MapReduce on HDFS  
 
 ## How It Works
@@ -44,7 +44,7 @@ In the era of digital communication, social media generates an immense volume of
    Analyzes co-occurrence and frequency of words to determine emerging trends.
 
 5. **Visualization:**  
-   Displays the results via graphs and dashboards in Tableau/Matplotlib.
+   Displays the results via graphs and dashboards in Matplotlib.
 
 ## Visuals
 
