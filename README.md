@@ -1,4 +1,4 @@
-# 📊 Real-Time Trend Identification in Social Media using MapReduce & Big Data Technologies
+# Real-Time Trend Identification in Social Media using MapReduce & Big Data Technologies
 
 This project aims to identify trending topics in real-time from social media platforms using Big Data technologies and the Hadoop MapReduce framework. It leverages large-scale data collection, processing, and visualization to uncover popular keywords and patterns from Twitter and news sources.
 
@@ -55,8 +55,7 @@ In the era of digital communication, social media generates an immense volume of
 
 - Ensured data quality through preprocessing (removing noise, links, punctuation, etc.)
 
-<img src="BigData_Project\BigDataOutput.png" width="600">
-
+<img src="BigDataOutput.png" width="600">
 ## Future Work
 - Deploy on cloud platforms (AWS EMR, EC2).
 
